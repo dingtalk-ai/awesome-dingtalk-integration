@@ -14,7 +14,7 @@
 
 ### AI Agent 框架
 
-- [DingTalk Dify 连接器 - dingtalk-dify-connector](https://github.com/chzealot/dingtalk-dify-connector) - 把 Dify 中的 Agent 接入到钉钉 AI 助理中。
+- [DingTalk Dify 连接器 - dingtalk-dify-connector](https://github.com/chzealot/dingtalk-dify-connector) - 把基于 Dify 构建的 Agent 接入到钉钉 AI 助理中。
 
 ### MCP
 
