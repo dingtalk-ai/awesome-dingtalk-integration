@@ -38,6 +38,11 @@
 - [zhaoyunxing92/dingtalk](https://github.com/zhaoyunxing92/dingtalk) - Go版本的钉钉开发API
 - [fastwego/dingding](https://github.com/fastwego/dingding) - 钉钉 A fast dingding development sdk written in Golang
 - [prometheus-webhook-dingtalk](https://github.com/timonwong/prometheus-webhook-dingtalk) - DingTalk integration for Prometheus Alertmanager
+- [DingtalkChatbot](https://github.com/zhuifengshen/DingtalkChatbot) - 钉钉群自定义机器人消息Python封装
+- [dingtalk-sdk](https://github.com/007gzs/dingtalk-sdk) - 钉钉 dingding Python SDK。 DingTalk SDK for Python
+- [dingtalk-python](https://github.com/blackmatrix7/dingtalk-python) - 钉钉第三方SDK，Python版本
+- [ding-notice](https://github.com/wowiwj/ding-notice) - 钉钉推送机器人消息发送laravel扩展包
+
 
 【Stream SDK】钉钉支持 Stream 模式接入 AI 助理、事件推送、机器人收消息以及卡片回调。相比 Webhook 模式，Stream 模式可以更简单的接入各类事件和回调，以下是各语言的 Stream SDK。
 
