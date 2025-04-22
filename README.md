@@ -4,9 +4,15 @@
 
 ## 目录
 
-- [实用 SDK](#sdk)
+- [AI Agent 框架](#ai-agent-框架)
+- [实用 SDK](#实用-sdk)
 
 ## 项目列表
+
+
+### AI Agent 框架
+
+- [DingTalk Dify 连接器 - dingtalk-dify-connector](https://github.com/chzealot/dingtalk-dify-connector)，把 Dify 中的 Agent 接入到钉钉 AI 助理中。
 
 ### <span id="sdk">实用 SDK</span>
 
