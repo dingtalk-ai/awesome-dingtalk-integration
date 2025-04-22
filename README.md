@@ -19,8 +19,6 @@
 
 - [DingTalk Agent Client](https://github.com/darrenyao/dingtalk-agent-client)，把钉钉客户端作为一个 MCP Host 使用
 
-https://github.com/darrenyao/dingtalk-agent-client
-
 ### <span id="sdk">实用 SDK</span>
 
 钉钉支持 Stream 模式接入 AI 助理、事件推送、机器人收消息以及卡片回调。相比 Webhook 模式，Stream 模式可以更简单的接入各类事件和回调，以下是各语言的 Stream SDK。
