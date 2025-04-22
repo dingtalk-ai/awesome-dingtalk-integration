@@ -5,6 +5,7 @@
 ## 目录
 
 - [AI Agent 框架](#ai-agent-框架)
+- [MCP](#mcp)
 - [实用 SDK](#实用-sdk)
 
 ## 项目列表
@@ -13,6 +14,12 @@
 ### AI Agent 框架
 
 - [DingTalk Dify 连接器 - dingtalk-dify-connector](https://github.com/chzealot/dingtalk-dify-connector)，把 Dify 中的 Agent 接入到钉钉 AI 助理中。
+
+### MCP
+
+- [DingTalk Agent Client](https://github.com/darrenyao/dingtalk-agent-client)，把钉钉客户端作为一个 MCP Host 使用
+
+https://github.com/darrenyao/dingtalk-agent-client
 
 ### <span id="sdk">实用 SDK</span>
 
