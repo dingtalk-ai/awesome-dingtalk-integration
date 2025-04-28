@@ -20,6 +20,8 @@
 
 - [DingTalk Agent Client](https://github.com/darrenyao/dingtalk-agent-client) - 把钉钉客户端作为一个 MCP Host 使用
 
+- [DingTalk MCP Server](https://github.com/darrenyao/dingtalk-mcp-server) - 基于钉钉开放平台接口封装的 mcp-server
+
 ### 机器人
 
 - [Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI) - 基于 Go 语言实现的钉钉集成 ChatGPT 机器人
