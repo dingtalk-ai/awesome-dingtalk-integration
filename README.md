@@ -15,6 +15,7 @@
 ### AI Agent 框架
 
 - [DingTalk Dify 连接器 - dingtalk-dify-connector](https://github.com/chzealot/dingtalk-dify-connector) - 把基于 Dify 构建的 Agent 接入到钉钉 AI 助理中。
+- [DingTalk OpenWebUI 集成 - dingtalk-open-web-ui](https://github.com/xlb1130/dingtalk-open-web-ui) - 把OpenWebUI的能力接入到钉钉 AI 助理中。
 
 ### MCP
 
