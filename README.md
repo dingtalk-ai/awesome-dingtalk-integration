@@ -54,3 +54,7 @@
 - [open-dingtalk/dingtalk-stream-sdk-nodejs](https://github.com/open-dingtalk/dingtalk-stream-sdk-nodejs) - Node.js
 - [open-dingtalk/dingtalk-stream-sdk-java](https://github.com/open-dingtalk/dingtalk-stream-sdk-java) - Java
 - [DingtalkChatbotSdk](https://github.com/yuzd/DingtalkChatbotSdk) - C#
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=dingtalk-ai/awesome-dingtalk-integration&type=Date)](https://www.star-history.com/#dingtalk-ai/awesome-dingtalk-integration&Date)
