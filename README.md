@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dingtalk-ai-awesome-dingtalk-integration-badge.png)](https://mseep.ai/app/dingtalk-ai-awesome-dingtalk-integration)
+
 # 钉钉 AI 精选项目
 
 精选的钉钉 AI 应用实用工具列表，将 AI 能力快速应用到沟通、协同和业务中。
